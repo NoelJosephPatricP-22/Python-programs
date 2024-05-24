@@ -6,3 +6,4 @@ input=input('Enter your Name:')
 print('Hi',input)
 
 #So, when you run this script, it prompts you to enter your name, then it prints "Hi" followed by the name you entered. For example, if you entered "John", it would print "Hi John"
+
