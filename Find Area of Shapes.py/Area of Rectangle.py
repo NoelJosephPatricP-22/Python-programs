@@ -9,3 +9,4 @@ area=length*breadth
 
 #print('Area of the rectangle is:',area): This line prints out the calculated area of the rectangle. It uses the print() function to display the text "Area of the rectangle is:" followed by the value of the area variable.
 print('Area of the rectangle is:',area)
+
