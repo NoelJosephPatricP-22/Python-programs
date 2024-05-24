@@ -6,3 +6,4 @@ area=3.14*r*r
 
 #print('\nArea of circle is:',area): This line prints the calculated area of the circle. The \n in the string adds a newline character, so the output starts on a new line. Then, it prints "Area of circle is:" followed by the value stored in the variable area.
 print('\nArea of circle is:',area)
+
