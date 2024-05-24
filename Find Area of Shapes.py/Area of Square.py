@@ -6,3 +6,4 @@ area=side1*side1
 
 #print('Area of the square is:',area): This line prints out the calculated area of the square. It uses the print() function to display the text "Area of the square is:" followed by the value of the area variable.
 print('Area of the square is:',area)
+
