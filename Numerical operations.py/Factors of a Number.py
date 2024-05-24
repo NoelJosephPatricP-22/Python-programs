@@ -1,4 +1,5 @@
 
+
 #Number = int(input('Enter the number:')): This line prompts the user to input an integer. The input() function takes user input as a string, which is then converted to an integer using the int() function. The entered integer is stored in the variable Number.
 Number=int(input('Enter the number:'))
 
